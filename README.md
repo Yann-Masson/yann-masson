@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello, Hello 👋
 
-<!--
-**Yann-Masson/yann-masson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Yann Masson and I'm 19 years old.
+I'm young french developper currently studying at [Epitech](https://www.epitech.eu/).
 
-Here are some ideas to get you started:
+I'm currently discovering different technologies. I'm trying out different domains with the aim of finding my favorite.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Involvements ✨
+ - 🟧 4 month Intership at [Orange](https://www.orange.com/en) as full-stack developper 2023.
+ - 🚗 Head of Champions Europ'raid ([Humanitarian](https://europraid.fr/) association) 2023.
+ - ✋ Volunteer for [Web2day](https://web2day.co/en/) 2022.
+ - ✋ Volunteer for [Devfest](https://devfest.gdgnantes.com/en/) 2022.
+ - 🤖 Head of Robotique St-Yo ([Robotics](https://www.coupederobotique.fr/) Junior Association) 2018.
+
+[![](https://skills.thijs.gg/icons?i=c,cpp,haskell,python,docker,jenkins,git)](https://github.com/Yann-Masson/)
+
+[![](https://skills.thijs.gg/icons?i=js,ts,express,react,redux,sequelize,nestjs)](https://github.com/Yann-Masson/)
