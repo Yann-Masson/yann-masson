@@ -6,7 +6,8 @@ I'm young french developper currently studying at [Epitech](https://www.epitech.
 I'm currently discovering different technologies. I'm trying out different domains with the aim of finding my favorite.
 
 ### Involvements ✨
- - 🟧 4 month Intership at [Orange](https://www.orange.com/en) as full-stack developper 2023.
+ - 🎓 Greatly involved in the Epitech Cobra Nantes association
+ - 🟧 5 month Intership at [Orange](https://www.orange.com/en) as full-stack developper 2023.
  - 🚗 Head of Champions Europ'raid ([Humanitarian](https://europraid.fr/) association) 2023.
  - ✋ Volunteer for [Web2day](https://web2day.co/en/) 2022.
  - ✋ Volunteer for [Devfest](https://devfest.gdgnantes.com/en/) 2022.
